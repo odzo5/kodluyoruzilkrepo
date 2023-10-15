@@ -25,3 +25,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 #### **License** ####
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+#### **RESIM** ####
+![SS](https://i.ibb.co/XjRJXFw/Ekran-g-r-nt-s-2023-10-15-205458.png)	
